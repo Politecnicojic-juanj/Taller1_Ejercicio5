@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<listacompras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio5.xsd">
+    <venta>
+        <ventaacredito>
+            <fechafinpago>2022-06-22</fechafinpago>
+            <cantidad>50</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventaacredito>
+            <cantidad>68</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventainmediata>
+            <cantidad>145</cantidad>
+            <divisa>COP</divisa>
+        </ventainmediata>
+    </venta>
+</listacompras>
